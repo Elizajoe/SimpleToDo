@@ -1,5 +1,6 @@
 # SimpleToDo
 Intro to Android Training Prerequisite App
+Time Spent : about 8 hours 
 
 This is an Android Demo application for creating a To-Do list with the following features:
 
@@ -11,4 +12,6 @@ The User Stories completed:
 
 
 https://cloud.githubusercontent.com/assets/5589513/5812394/9571e064-a01e-11e4-8bbf-71991dd7a971.gif
+
+GIF created with LICECap
 
