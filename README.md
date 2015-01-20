@@ -11,3 +11,5 @@ The User Stories completed:
 
 
 https://cloud.githubusercontent.com/assets/5589513/5812394/9571e064-a01e-11e4-8bbf-71991dd7a971.gif
+
+![https://cloud.githubusercontent.com/assets/5589513/5812394/9571e064-a01e-11e4-8bbf-71991dd7a971.gif)
